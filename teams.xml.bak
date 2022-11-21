@@ -1,0 +1,157 @@
+<Daten>
+   <Team>
+      <Name>1. FC Union Berlin</Name>
+      <Trainer>Urs Fischer</Trainer>
+      <Player>
+         <Name>Lennart Grill</Name>
+         <Birthday>04.08.1992</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Robin Knoche</Name>
+         <Birthday>22.05.1992</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Christopher Trimmel</Name>
+         <Birthday>24.02.1987</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Timo Baumgartl</Name>
+         <Birthday>04.03.1996</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Paul Jaeckel</Name>
+         <Birthday>22.07.1998</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Rani Khedira</Name>
+         <Birthday>27.01.1994</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Morten Thorsby</Name>
+         <Birthday>05.05.1996</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Janik Haberer</Name>
+         <Birthday>02.04.1994</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Sven Michel</Name>
+         <Birthday>15.07.1990</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Kevin Behrens</Name>
+         <Birthday>03.02.1991</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Sheraldo Becker</Name>
+         <Birthday>09.02.1995</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+   </Team>
+   <Team>
+      <Name>Hertha BSC</Name>
+      <Trainer>Sandro Schwarz</Trainer>
+      <Player>
+         <Name>Oliver Christensen</Name>
+         <Birthday>02.06.1992</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Marc Oliver Kempf</Name>
+         <Birthday>28.01.1995</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Marvin Plattenhardt</Name>
+         <Birthday>26.01.1992</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Maximailian Mittelstaedt</Name>
+         <Birthday>18.03.1997</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Peter Pekarik</Name>
+         <Birthday>30.10.1986</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Jonjoe Kenny</Name>
+         <Birthday>15.03.1997</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Lucas Tousart</Name>
+         <Birthday>29.04.1997</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Vlademir Darida</Name>
+         <Birthday>08.08.1990</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Suat Serdar</Name>
+         <Birthday>11.04.1997</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Chidera Ejuke</Name>
+         <Birthday>02.01.1998</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Dodi Lukebakio</Name>
+         <Birthday>24.09.1997</Birthday>
+         <TricotNr>0</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+   </Team>
+   <Team>
+      <Name>NeueMannschaft</Name>
+      <Trainer>NeuerTrainer</Trainer>
+      <Player>
+         <Name>Wurst</Name>
+         <TricotNr>12</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+      <Player>
+         <Name>Kaese</Name>
+         <Birthday>29.03.1998</Birthday>
+         <TricotNr>2</TricotNr>
+         <Goals>0</Goals>
+      </Player>
+   </Team>
+</Daten>
